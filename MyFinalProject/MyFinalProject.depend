@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1633971268 source:g:\university documents\ict\fundamentals of computer programming\myfinalproject\1.c
+	<stdio.h>
+	<string.h>
+
+1633975492 source:g:\university documents\ict\fundamentals of computer programming\myfinalproject\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1635782783 source:g:\university documents\first semester\ict\fundamentals of computer programming\myfinalproject\1.c
+	<stdio.h>
+	<string.h>
+
+1635614267 source:g:\university documents\first semester\ict\fundamentals of computer programming\myfinalproject\main.c
+	<stdio.h>
+	<string.h>
+
